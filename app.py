@@ -272,17 +272,6 @@ st.header("🌌 Lagrange Point Map")
 st.caption(
     "Visualizing the gravitational architecture of the selected two-body system."
 )
-cols = st.columns(5)
-
-for i, name in enumerate(points):
-
-    x, y = points[name]
-
-    with cols[i]:
-        st.metric(
-            name,
-            f"x = {x:.4f}"
-        )
 
 
 # -----------------------------
