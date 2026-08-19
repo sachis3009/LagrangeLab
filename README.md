@@ -177,7 +177,7 @@ LagrangeLab turns these concepts into an interactive environment where users can
 
 **GitHub:** https://github.com/sachis3009/LagrangeLab
 
-**Demo:** Coming soon
+**Demo:** Demo: https://www.loom.com/share/2958e43c42d54d0dac4ffb59da2a17c7
 
 ---
 
