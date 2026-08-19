@@ -18,7 +18,7 @@ Although the concept is important in orbital mechanics and space mission design,
 
 ---
 
-## 💡 Our Solution
+## 💡 My Solution
 
 LagrangeLab allows users to:
 
