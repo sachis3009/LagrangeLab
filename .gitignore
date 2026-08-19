@@ -1,0 +1,5 @@
+app_backup.py
+app_static_working.py
+__pycache__/
+.venv/
+venv/
